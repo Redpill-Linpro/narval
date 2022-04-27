@@ -1,4 +1,4 @@
-module json-schema-validator
+module narval
 
 go 1.18
 
