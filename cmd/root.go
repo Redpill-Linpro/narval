@@ -10,7 +10,7 @@ import (
 )
 
 var rootCmd = &cobra.Command{
-	Use:   "json-schema-validator",
+	Use:   "narval",
 	Short: "A small application to validate json documents with json schema",
 	Long:  `A small application to validate json documents with json schema`,
 	Run: func(cmd *cobra.Command, args []string) {
