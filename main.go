@@ -1,10 +1,6 @@
-/*
-Copyright © 2022 Leo Jordansson
-
-*/
 package main
 
-import "narval/cmd"
+import "github.com/Redpill-Linpro/narval/cmd"
 
 func main() {
 	cmd.Execute()

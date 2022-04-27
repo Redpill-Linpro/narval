@@ -1,4 +1,4 @@
-module narval
+module github.com/Redpill-Linpro/narval
 
 go 1.18
 
